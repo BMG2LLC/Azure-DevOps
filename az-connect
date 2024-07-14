@@ -1,1 +1,2 @@
 This is the firl explaining how to connect azure devops to github
+the commit message to link with a azure devops item need to be "Commit AB#{ID number}"
